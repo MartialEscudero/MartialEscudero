@@ -1,17 +1,17 @@
 <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"> Hey ! Moi c'est Martial ! </h2>
 
 <p align="center">
-  Je suis un <strong>Développeur Web Junior</strong> actuellement en <a rel="noopener" target="_blank" href="https://www.martialescudero.com/assets/LPMI.png">Licence Professionnelle - Métiers de l'informatique : Conduite de projet - Technologie du développement web</a> à l’Université de Limoges, je suis diplômé d'un <a rel="noopener" target="_blank" href="https://www.sciences.unilim.fr/tic/deust-webmaster-metiers-internet/">DEUST Webmaster & Métiers de l'Internet</a>.
+  Je suis un <strong>Développeur Web Junior</strong> actuellement en <a rel="noopener" target="_blank" href="https://www.martialescudero.com/assets/LPMI.png">Licence Professionnelle - Métiers de l'informatique : Conduite de projet - Technologie du développement web</a> à l’Université de Limoges.
 </p>
 
 <br>
-
-<p align="center"><strong>Mes technos</strong></p>
 
 <p align="center">
   <img alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=white" />
 
   <img alt="nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
+  
+  <img alt="Alpine.js" src="https://img.shields.io/badge/-Alpine.js-2d3441?style=flat-square&logo=alpine.js&logoColor=white" />
 
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-EFD81D?style=flat-square&logo=javascript&logoColor=white" />
 
@@ -41,16 +41,14 @@
 
 <br>
 
-<p align="center"><strong>Où me trouver</strong></p>
-
 <p align="center">
   <a href="https://github.com/MartialEscudero" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/feed/" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.martialescudero.com/" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=white" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
 </p>
