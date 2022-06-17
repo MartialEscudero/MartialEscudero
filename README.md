@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"> Hey ! Moi c'est Martial ! </h2>
+<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20"> Hey ! Moi c'est Martial ! </h2>
 
 <p align="center">
   Je suis un <strong>Développeur Web Junior</strong> actuellement en <a rel="noopener" target="_blank" href="https://www.martialescudero.com/assets/LPMI.png">Licence Professionnelle - Métiers de l'informatique : Conduite de projet - Technologie du développement web</a> à l’Université de Limoges.
