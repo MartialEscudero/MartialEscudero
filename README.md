@@ -12,8 +12,10 @@
   <img alt="nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
   
   <img alt="Alpine.js" src="https://img.shields.io/badge/-Alpine.js-2d3441?style=flat-square&logo=alpine.js&logoColor=white" />
-
+  
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-EFD81D?style=flat-square&logo=javascript&logoColor=white" />
+  
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2d79c7?style=flat-square&logo=typescript&logoColor=white" />
 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
@@ -21,9 +23,9 @@
 
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CD6799?style=flat-square&logo=sass&logoColor=white" />
 
-  <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-1697F6?style=flat-square&logo=vuetify&logoColor=white" />
-
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  
+  <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-1697F6?style=flat-square&logo=vuetify&logoColor=white" />
 
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 
