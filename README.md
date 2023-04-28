@@ -9,7 +9,7 @@ Actuellement <strong>Développeur Front-End</strong> au sein d'une agence, je su
 <p align="center">
   <img alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=white" />
 
-  <img alt="nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
+  <img alt="nuxt" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
   
   <img alt="Alpine.js" src="https://img.shields.io/badge/-Alpine.js-2d3441?style=flat-square&logo=alpine.js&logoColor=white" />
   
