@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  Actuellement <b>Développeur Front-End</b> au sein d'une agence, je suis diplômé d'une <a rel="noopener" target="_blank" href="https://www.martialescudero.com/lpmi-presentation.png">Licence Professionnelle - Métiers de l'informatique : Conduite de projet - Technologie du développement web</a> et d'un <a rel="noopener" target="_blank" href="https://www.martialescudero.com/deust-presentation.png">DEUST Webmaster & Métiers de l'Internet</a> tout deux à l’Université de Limoges.
+  Actuellement <b>Développeur Front-End</b> au sein d'une agence, je suis diplômé d'une <a rel="noopener" href="https://www.martialescudero.com/lpmi-presentation.png">Licence Professionnelle - Métiers de l'informatique : Conduite de projet - Technologie du développement web</a> et d'un <a rel="noopener" href="https://www.martialescudero.com/deust-presentation.png">DEUST Webmaster & Métiers de l'Internet</a> tout deux à l’Université de Limoges.
 </p>
 
 <br>
@@ -25,10 +25,10 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/martial-escudero" target="_blank">
+  <a href="https://www.linkedin.com/in/martial-escudero">
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://link.martialescudero.com" target="_blank">
+  <a href="https://link.martialescudero.com">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=Dev.to&logoColor=white" />
   </a>
 </div>
