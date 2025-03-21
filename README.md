@@ -17,7 +17,7 @@
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-f73c00?style=flat-square&logo=svelte&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-cf649a?style=flat-square&logo=sass&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-3bbcf7?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-ffcd26?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-d5b410?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-8c4bff?style=flat-square&logo=strapi&logoColor=white" />
   <img alt="Shopify" src="https://img.shields.io/badge/-Shopify-95bf47?style=flat-square&logo=shopify&logoColor=white" />
 </div>
