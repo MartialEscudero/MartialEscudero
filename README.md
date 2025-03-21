@@ -1,7 +1,7 @@
 <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20"> Hey ! Moi c'est Martial ! </h2>
 
 <p align="center">
-Actuellement <strong>Développeur Front-End</strong> au sein d'une agence, je suis diplômé d'une <a rel="noopener" target="_blank" href="https://www.martialescudero.com/lpmi-presentation.png">Licence Professionnelle - Métiers de l'informatique : Conduite de projet - Technologie du développement web</a> et d'un <a rel="noopener" target="_blank" href="https://www.sciences.unilim.fr/tic/deust-webmaster-metiers-internet/">DEUST Webmaster & Métiers de l'Internet</a> tout deux à l’Université de Limoges.
+Actuellement <strong>Développeur Front-End</strong> au sein d'une agence, je suis diplômé d'une <a rel="noopener" target="_blank" href="https://www.martialescudero.com/lpmi-presentation.png">Licence Professionnelle - Métiers de l'informatique : Conduite de projet - Technologie du développement web</a> et d'un <a rel="noopener" target="_blank" href="https://www.martialescudero.com/deust-presentation.png">DEUST Webmaster & Métiers de l'Internet</a> tout deux à l’Université de Limoges.
 </p>
 
 <br>
